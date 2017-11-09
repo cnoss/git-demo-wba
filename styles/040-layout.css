@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------------------
-layout.css                                                                  
-Enthält alle übergreifenden typographischen Regeln.  
+layout.css
+Enthält alle übergreifenden typographischen Regeln.
 
 Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
 ----------------------------------------------------------------------------*/
@@ -15,7 +15,7 @@ Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
 }
 
 
-/* Section
+/* Section Malte
 -----------------------------------------------------------------------------*/
 
 .section {
@@ -27,4 +27,5 @@ Wer es noch schöner möchte, möge sich mal https://cssguidelin.es/ anschauen.
     border-bottom: solid 1px var(--color-border);
     margin-bottom: var(--space-stack-xl);
     text-align: center;
+    font-weight: bold;
 }
